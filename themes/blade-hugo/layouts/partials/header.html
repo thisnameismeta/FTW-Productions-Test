@@ -31,7 +31,7 @@
 							<div class="navbar-dropdown">
 								{{range where $.Site.RegularPages "Section" .Identifier}}
 									<a class="navbar-item is-uppercase">
-										<a href="{{ .Permalink }}" class="navbar-item is-uppercase" title="{{ .Title }}">
+										<a href="{{ .RelPermalink }}" class="navbar-item is-uppercase" title="{{ .Title }}">
 											{{ .Title }}
 										</a>
 									</a>
@@ -47,7 +47,7 @@
 							<div class="navbar-dropdown">
 									{{ with $.Site.GetPage "shows"}}
 										{{ range where .Pages "Params.complete" true }}
-											<a href="{{ .Permalink }}" class="navbar-item is-uppercase" title="{{ .Title }}">
+											<a href="{{ .RelPermalink }}" class="navbar-item is-uppercase" title="{{ .Title }}">
 												{{ .Title }}
 											</a>
 										{{ end }}
