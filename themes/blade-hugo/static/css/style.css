@@ -1,0 +1,34 @@
+.logo h1 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 1.5em;
+}
+.max-800px {
+    max-width: 800px;
+}
+.is-family-roboto {
+  font-family:  "Roboto Slab" !important;
+}
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+main {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	justify-content: center;
+}
+.block_article {
+    width: auto;
+    height: auto;
+    background-size: cover;
+    line-height: 230px;
+    text-align: center;
+}
+.block_article span {
+    color: white;
+    text-shadow: 2px 2px black;
+    font-size: 1.3em;
+}

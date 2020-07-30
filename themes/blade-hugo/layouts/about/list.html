@@ -1,0 +1,25 @@
+{{ define "mainbanner" }}
+<div class ="hero is-black">
+	<div class ="hero-body">
+		<div class = "container">
+			<h1 class="title has-text-centered is-size-1 is-hidden-touch fade-in-bottom">
+				{{.Title}}
+			</h1>
+			<h2 class="title has-text-centered is-hidden-desktop">
+				{{.Title}}
+			</h2>
+		</div>
+	</div>
+</div>
+{{ end }}
+{{define "main"}}
+<div class="columns is-centered">
+	<div class="column is-two-thirds">
+				<div class="content">
+					{{ .Content }}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{{ end }}

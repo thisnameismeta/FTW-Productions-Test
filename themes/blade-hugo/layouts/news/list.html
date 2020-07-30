@@ -1,0 +1,40 @@
+{{ define "main" }}
+<div class="container pt-6">
+	<div class="content">
+		<div class="columns is-vcentered">
+		<div class="column is-12">
+		{{ range first 10 .Pages }}
+			<div class="columns">
+				<div class="column is-2 is-offset-2">
+					{{.Date.Format "January 2, 2006"}}
+				</div>
+				<div class="divider is-vertical">
+				</div>
+				<div class="column is-6">
+					<h1 class="title has-text-primary"> {{.Title}} </h1>
+				</div>
+			</div>
+			<div class="columns is-centered">
+				<div class="column is-6 is-offset-2">
+					<a href="{{ .Permalink }}">{{ .Summary }}</a>
+						{{ if .Truncated }}
+							<!-- This <div> includes a read more link, but only if the summary is truncated... -->
+							<div class="pt-4">
+								<a class="content has-text-primary is-size-5"href="{{ .RelPermalink }}">Read More…</a>
+							</div>
+						{{ end }}
+				</div>
+			</div>
+		{{ end }}
+		</div>
+		<div class="column is-2">
+		I am an eventbrite box, hear me roar.
+		</div>
+		</div>
+	</div>
+</div>
+<nav class="pagination" role="navigation" aria-label="pagination">
+	<a class="pagination-previous">Previous</a>
+	<a class="pagination-next">Next page</a>
+</nav>
+{{ end }}

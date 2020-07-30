@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="hero block_article is-medium" style="background-image: url({{.Params.bannerimg}});">
+	<div class="hero-body">		
+		<div class="container">
+					<h1 class="title is-uppercase is-family-roboto fade-in">
+						{{ .Params.bannertitle }}
+					<h3 class="subtitle has-text-white pt-3 fade-in" style=>
+					<span style ="font-family: Playfair Display"> {{ .Params.bannersubtitle }} </span>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="columns">
+		<div class = "column">
+			{{ .Content }}
+		</div>
+		<div class = "column fade-in-bottom">
+		</div>
+	</div>
+</div>
+{{ end }}

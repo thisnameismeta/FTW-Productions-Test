@@ -1,0 +1,15 @@
+<footer class="hero pt-6">
+    <div class="hero-body has-background-black">
+        <div class="columns is-centered">
+            {{ range .Site.Menus.footer }}
+            <div class="column has-text-centered is-narrow">
+                <a href="{{ .URL }}" class="">{{ .Name }}</a>
+            </div>
+            {{ end }}
+        </div>
+		<div class="columns is-centered">
+			<div class="column has-text-centered has-text-grey-dark">
+				COPYRIGHT FOR THE WHIM PRODUCTIONS LLC. ALL RIGHTS RESERVED
+			</div>
+    </div>
+</footer>

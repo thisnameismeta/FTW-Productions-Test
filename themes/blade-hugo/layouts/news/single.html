@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class ="hero is-black">
+	<div class ="hero-body">
+		<div class = "container">
+					<h1 class="subtitle has-text-centered is-size-4 keyframes fade-in">
+						{{.Date.Format "January 2, 2006"}}
+					</h1>
+					<h2 class="title has-text-centered is-size-1 is-hidden-touch fade-in">
+						{{.Title}}
+					</h2>
+					<h3 class="title has-text-centered is-hidden-desktop fade-in">
+						{{.Title}}
+					</h3>
+		</div>
+	</div>
+</div>
+<section class="section">
+  <article>
+	<div class="columns is-centered">
+		<div class="column is-half">
+			<div class="content">
+				{{ .Content }}
+			</div>
+		</div>
+	</div>
+  </article>
+</section>
+{{ end }}

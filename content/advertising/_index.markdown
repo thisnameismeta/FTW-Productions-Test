@@ -1,0 +1,60 @@
+---
+author: maura
+date: 2019-04-17 02:26:31+00:00
+draft: false
+title: Ad Sales & Sponsors
+type: page
+aliases: ["/ad-sales-sponsors/"]
+---
+
+[vc_row][vc_column width="2/3"][vc_column_text]
+
+
+# Step 1: Request an Ad
+
+
+
+
+Yes, I want to be a supporter of For The Whim Productions![/vc_column_text][vc_raw_html]JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZkb2NzLmdvb2dsZS5jb20lMkZmb3JtcyUyRmQlMkZlJTJGMUZBSXBRTFNkVEFEaVNjQUhnTW5WNjRkLVltbjdUVi11TWMybXNRTjdhUHp2bTc3TGRJVFN0S3clMkZ2aWV3Zm9ybSUzRmVtYmVkZGVkJTNEdHJ1ZSUyMiUyMHdpZHRoJTNEJTIyNjQwJTIyJTIwaGVpZ2h0JTNEJTIyMTY3MCUyMiUyMGZyYW1lYm9yZGVyJTNEJTIyMCUyMiUyMG1hcmdpbmhlaWdodCUzRCUyMjAlMjIlMjBtYXJnaW53aWR0aCUzRCUyMjAlMjIlM0VMb2FkaW5nJUUyJTgwJUE2JTNDJTJGaWZyYW1lJTNF[/vc_raw_html][/vc_column][vc_column width="1/3"][vc_column_text]
+
+
+# Step 2: Pay for ad
+
+
+[/vc_column_text][vc_column_text]
+
+
+#### **To pay online with debit or credit card:**
+
+
+[/vc_column_text][vc_raw_html css=".vc_custom_1555470239531{background-color: #ffffff !important;border: 3px solid #dd9933 !important;border-radius: 3px !important;}"]JTNDZm9ybSUyMHRhcmdldCUzRCUyMnBheXBhbCUyMiUyMGFjdGlvbiUzRCUyMmh0dHBzJTNBJTJGJTJGd3d3LnBheXBhbC5jb20lMkZjZ2ktYmluJTJGd2Vic2NyJTIyJTIwbWV0aG9kJTNEJTIycG9zdCUyMiUzRSUwQSUzQ2lucHV0JTIwdHlwZSUzRCUyMmhpZGRlbiUyMiUyMG5hbWUlM0QlMjJjbWQlMjIlMjB2YWx1ZSUzRCUyMl9zLXhjbGljayUyMiUzRSUwQSUzQ2lucHV0JTIwdHlwZSUzRCUyMmhpZGRlbiUyMiUyMG5hbWUlM0QlMjJob3N0ZWRfYnV0dG9uX2lkJTIyJTIwdmFsdWUlM0QlMjJRQ1Y1SkhTWjVZVThVJTIyJTNFJTBBJTNDdGFibGUlM0UlMEElM0N0ciUzRSUzQ3RkJTNFJTNDaW5wdXQlMjB0eXBlJTNEJTIyaGlkZGVuJTIyJTIwbmFtZSUzRCUyMm9uMCUyMiUyMHZhbHVlJTNEJTIyU2VsZWN0JTIwQWQlMjBGb3JtYXQlMjIlM0VTZWxlY3QlMjBBZCUyMEZvcm1hdCUzQyUyRnRkJTNFJTNDJTJGdHIlM0UlM0N0ciUzRSUzQ3RkJTNFJTNDc2VsZWN0JTIwbmFtZSUzRCUyMm9zMCUyMiUzRSUwQSUwOSUzQ29wdGlvbiUyMHZhbHVlJTNEJTIyRnVsbCUyMFBhZ2UlMjBBZCUyMiUzRUZ1bGwlMjBQYWdlJTIwQWQlMjAlMjQ2MC4wMCUyMFVTRCUzQyUyRm9wdGlvbiUzRSUwQSUwOSUzQ29wdGlvbiUyMHZhbHVlJTNEJTIySGFsZiUyMFBhZ2UlMjBBZCUyMiUzRUhhbGYlMjBQYWdlJTIwQWQlMjAlMjQzMC4wMCUyMFVTRCUzQyUyRm9wdGlvbiUzRSUwQSUwOSUzQ29wdGlvbiUyMHZhbHVlJTNEJTIyVGhpcmQlMjBQYWdlJTIwQWQlMjIlM0VUaGlyZCUyMFBhZ2UlMjBBZCUyMCUyNDIwLjAwJTIwVVNEJTNDJTJGb3B0aW9uJTNFJTBBJTA5JTNDb3B0aW9uJTIwdmFsdWUlM0QlMjJQaG90byUyMEJvb3RoJTIwU3BvbnNvciUyMiUzRVBob3RvJTIwQm9vdGglMjBTcG9uc29yJTIwJTI0MzAuMDAlMjBVU0QlM0MlMkZvcHRpb24lM0UlMEElMDklM0NvcHRpb24lMjB2YWx1ZSUzRCUyMlRhYmxlJTIwVG9wJTIwU3BvbnNvciUyMiUzRVRhYmxlJTIwVG9wJTIwU3BvbnNvciUyMCUyNDIwLjAwJTIwVVNEJTNDJTJGb3B0aW9uJTNFJTBBJTA5JTNDb3B0aW9uJTIwdmFsdWUlM0QlMjJTb2NpYWwlMjBNZWRpYSUyMFNob3V0JTIwb3V0JTIwJTI4cG9zdCUyOSUyMiUzRVNvY2lhbCUyME1lZGlhJTIwU2hvdXQlMjBvdXQlMjAlMjhwb3N0JTI5JTIwJTI0MTAuMDAlMjBVU0QlM0MlMkZvcHRpb24lM0UlMEElM0MlMkZzZWxlY3QlM0UlMjAlM0MlMkZ0ZCUzRSUzQyUyRnRyJTNFJTBBJTNDJTJGdGFibGUlM0UlMEElM0NpbnB1dCUyMHR5cGUlM0QlMjJoaWRkZW4lMjIlMjBuYW1lJTNEJTIyY3VycmVuY3lfY29kZSUyMiUyMHZhbHVlJTNEJTIyVVNEJTIyJTNFJTBBJTNDaW5wdXQlMjB0eXBlJTNEJTIyaW1hZ2UlMjIlMjBzcmMlM0QlMjJodHRwcyUzQSUyRiUyRnd3dy5wYXlwYWxvYmplY3RzLmNvbSUyRmVuX1VTJTJGaSUyRmJ0biUyRmJ0bl9jYXJ0X0xHLmdpZiUyMiUyMGJvcmRlciUzRCUyMjAlMjIlMjBuYW1lJTNEJTIyc3VibWl0JTIyJTIwYWx0JTNEJTIyUGF5UGFsJTIwLSUyMFRoZSUyMHNhZmVyJTJDJTIwZWFzaWVyJTIwd2F5JTIwdG8lMjBwYXklMjBvbmxpbmUlMjElMjIlM0UlMEElM0NpbWclMjBhbHQlM0QlMjIlMjIlMjBib3JkZXIlM0QlMjIwJTIyJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZ3d3cucGF5cGFsb2JqZWN0cy5jb20lMkZlbl9VUyUyRmklMkZzY3IlMkZwaXhlbC5naWYlMjIlMjB3aWR0aCUzRCUyMjElMjIlMjBoZWlnaHQlM0QlMjIxJTIyJTNFJTBBJTNDJTJGZm9ybSUzRSUwQQ==[/vc_raw_html][vc_column_text]
+
+
+#### **or to pay by check:**
+
+
+
+
+**Mail to:**
+
+For The Whim Productions
+
+415 Newton Avenue, Oaklyn, NJ 08107[/vc_column_text][vc_column_text]
+
+
+# Step 3: Send Us Your Artwork
+
+
+[/vc_column_text][vc_column_text]
+
+
+#### **we can accept business cards, ads, and logos
+****in jpg, png, or pdf formats.**
+
+
+
+
+Contact: [ryan@ftwproductions.com](mailto:ryan@ftwproductions.com)
+
+
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]

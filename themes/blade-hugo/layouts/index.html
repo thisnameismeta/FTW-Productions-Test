@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="hero block_article is-medium" style="background-image: url({{.Params.bannerimg}});">
+	<div class="hero-body">		
+		<div class="container">
+					<h1 class="title has-text-white is-uppercase is-family-secondary fade-in">
+					{{ .Params.bannertxt }}
+					<h3 class="subtitle has-text-white">
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="columns">
+		<div class = "column">
+			{{ .Content }}
+		</div>
+		<div class = "column fade-in-bottom">
+			{{with .Site.GetPage "/news" }}
+				{{ range first 1 .Pages }}
+					<h1 class="title has-text-primary class is-family-secondary">{{ .Title}} </h1>
+					{{ .Summary}}
+						{{ if .Truncated }}
+							<!-- This <div> includes a read more link, but only if the summary is truncated... -->
+							<div class="pt-4">
+								<a class="content has-text-primary is-size-5" href="{{ .RelPermalink }}">Read More…</a>
+							</div>
+						{{ end }}
+				{{ end }}
+			{{ end }}
+		</div>
+	</div>
+</div>
+{{ end }}
