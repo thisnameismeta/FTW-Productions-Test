@@ -1,0 +1,25 @@
+---
+label: Sponsors
+hide_body: false
+fields:
+- type: text
+  name: author
+  label: author
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: list
+  name: aliases
+  label: aliases
+- type: text
+  name: bannertitle
+  label: bannertitle
+- type: text
+  name: bannersubtitle
+  label: bannersubtitle
+- type: file
+  name: bannerimg
+  label: bannerimg
